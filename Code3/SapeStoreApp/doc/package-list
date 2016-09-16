@@ -1,0 +1,4 @@
+com.sapestore.controller
+com.sapestore.partner.controller
+com.sapestore.partner.services
+com.sapestore.partner.services.test
